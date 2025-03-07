@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpradhan21" alt="mpradhan21" /></a> </p>
 
-- 🔭 I’m currently working on **Online Quiz Application**
+- 🔭 I’m currently **Exploring new technologies and sharpening my backend skills**
 
 - 🌱 I’m currently learning **Frameworks, Runtime Environment**
 

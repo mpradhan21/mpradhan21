@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Madhumita Pradhan</h1>
+<h1 align="center">Hi 👋, I'm Madhumita Pradhan</h1> <p align="center">
+<a href="https://github.com/mpradhan21" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50"></a>
+</p>
 <h3 align="center">Looking for a role in full-stack development with a stronger emphasis on backend work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpradhan21&label=Profile%20views&color=0e75b6&style=flat" alt="mpradhan21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mpradhan21" alt="mpradhan21" /></a> </p>
+
+
 
 - 🔭 I’m currently **Exploring new technologies and sharpening my backend skills**
 
@@ -14,6 +18,7 @@
 - 📫 How to reach me **madhumitapradhan21@gmail.com**
 
 - ⚡ Fun Facts **I explore photography, editing, and crafting poetry.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
